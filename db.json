@@ -1,0 +1,279 @@
+{
+
+  "watch":[
+      {
+        "id":1,
+        "imageUrl1":"https://images.casiocdn.com/fit-in/368x500/casio-v2/resource/images/products/watches/hd/GA700WM-5A_hd.png",
+        "imageUrl2":"https://images.casiocdn.com/fit-in/368x500/casio-v2/resource/images/products/watches/hd/GA700WM-5A_hd.png",
+        "name":"G-shock white",
+        "serial":"A1234A",
+        "department":["Watches","G-Shock","Men"],
+        "price":100
+      },
+      {
+        "id":2,
+        "imageUrl1":"https://images.casiocdn.com/fit-in/576x1020/casio-v2/resource/images/products/watches/hd/GBDH1000-1_hd.png",
+        "imageUrl2":"https://images.casiocdn.com/fit-in/576x1020/casio-v2/resource/images/products/watches/hd/GBDH1000-1_hd.png",
+        "name":"G-shock GBDH1000-1",
+        "serial":"A1235A",
+        "department":["Watches","G-Shock","Men"],
+        "price":1000
+      },
+      {
+        "id":3,
+        "imageUrl1":"//cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_200x.png?v=1573859023 200w, //cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_400x.png?v=1573859023 400w, //cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_600x.png?v=1573859023 600w, //cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_700x.png?v=1573859023 700w, //cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_800x.png?v=1573859023 800w, //cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_900x.png?v=1573859023 900w, //cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_1000x.png?v=1573859023 1000w, //cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_1200x.png?v=1573859023 1200w",
+        "imageUrl2":"//cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_200x.png?v=1573859023 200w, //cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_400x.png?v=1573859023 400w, //cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_600x.png?v=1573859023 600w, //cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_700x.png?v=1573859023 700w, //cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_800x.png?v=1573859023 800w, //cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_900x.png?v=1573859023 900w, //cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_1000x.png?v=1573859023 1000w, //cdn.shopify.com/s/files/1/0198/9253/5396/products/Benson-Rose-Gold-Emerald-Dial-Front-View_1200x.png?v=1573859023 1200w",
+        "name":"Benson CARDINAL EMERALD ROSE (LIMITED EDITION)",
+        "serial":"A1236A",
+        "department":["Watches","G-Shock","Men"],
+        "price":135
+      },
+      {
+        "id":4,
+        "imageUrl1":"https://i1.wp.com/m.media-amazon.com/images/I/51Jq5OnsyML.jpg?w=770&ssl=1",
+        "imageUrl2":"https://i1.wp.com/m.media-amazon.com/images/I/51Jq5OnsyML.jpg?w=770&ssl=1",
+        "name":"Citizen JY8078-01L",
+        "serial":"A1237A",
+        "department":["Watches","G-Shock","Men"],
+        "price":390
+      },
+      {
+        "id":5,
+        "imageUrl1":"https://www.rocoswatch.com/image/cache/catalog/R0149/R0149-800x800-500x500.jpg",
+        "imageUrl2":"https://www.rocoswatch.com/image/cache/catalog/R0149/R0149-800x800-500x500.jpg",
+        "name":"Rocos R0146",
+        "serial":"A1239A",
+        "department":["Watches","G-Shock","Men"],
+        "price":199.98
+      },
+      {
+        "id":6,
+        "imageUrl1":"https://www.womensedge.org/wp-content/uploads/2018/08/41OtxWlnGBL-1.jpg",
+        "imageUrl2":"https://www.womensedge.org/wp-content/uploads/2018/08/41OtxWlnGBL-1.jpg",
+        "name":"Swarovski Alegria Blue",
+        "serial":"A1240A",
+        "department":["Watches","G-Shock","Women"],
+        "price":369.98
+      },
+      {
+        "id":7,
+        "imageUrl1":"https://images-na.ssl-images-amazon.com/images/I/51rRP3NjaEL.jpg",
+        "imageUrl2":"https://images-na.ssl-images-amazon.com/images/I/51rRP3NjaEL.jpg",
+        "name":"Civo Elegance",
+        "serial":"A1241A",
+        "department":["Watches","G-Shock","Women"],
+        "price":289.98
+      },
+      {
+        "id":8,
+        "imageUrl1":"https://ae01.alicdn.com/kf/Hb2a3bf09dcd74f36b7467847d9c4828cy/Fashion-Woman-Watch-No-Number-Round-Large-Sub-dial-Hand-Decor-Women-Watch-Faux-Leather-Band.jpg_640x640.jpg",
+        "imageUrl2":"https://ae01.alicdn.com/kf/Hb2a3bf09dcd74f36b7467847d9c4828cy/Fashion-Woman-Watch-No-Number-Round-Large-Sub-dial-Hand-Decor-Women-Watch-Faux-Leather-Band.jpg_640x640.jpg",
+        "name":"Yolako",
+        "serial":"A1242A",
+        "department":["Watches","G-Shock","Women"],
+        "price":500
+      },
+      {
+        "id":9,
+        "imageUrl1":"https://img.looksgud.com/upload/item-image/628/dh5k/dh5k-ganeva-fiber-black-color-women-watch_500x500_0.jpg",
+        "imageUrl2":"https://img.looksgud.com/upload/item-image/628/dh5k/dh5k-ganeva-fiber-black-color-women-watch_500x500_0.jpg",
+        "name":"Geneva",
+        "serial":"A1243A",
+        "department":["Watches","G-Shock","Women"],
+        "price":600
+      },
+      {
+        "id":10,
+        "imageUrl1":"https://www.zavitime.com/727480-home_default/woman-watch-michael-kors-mk3435.jpg",
+        "imageUrl2":"https://www.zavitime.com/727480-home_default/woman-watch-michael-kors-mk3435.jpg",
+        "name":"Michael Kors",
+        "serial":"A1244A",
+        "department":["Watches","G-Shock","Women"],
+        "price":200
+      }
+  ],
+  
+  "electronics":[
+    {
+      "id":1,
+      "imageUrl1":"https://images-na.ssl-images-amazon.com/images/I/41UW-78fs8L.jpg",
+      "imageUrl2":"https://images-na.ssl-images-amazon.com/images/I/41UW-78fs8L.jpg",
+      "name":"ADMI FR-1 Gaming PC",
+      "serial":"B1231B",
+      "department":["Electronics","PC","Gaming"],
+      "price":1500
+    },
+    {
+      "id":2,
+      "imageUrl1":"https://i.pinimg.com/736x/15/30/af/1530af773d88feae3559cbc4b68e4069.jpg",
+      "imageUrl2":"https://i.pinimg.com/736x/15/30/af/1530af773d88feae3559cbc4b68e4069.jpg",
+      "name":"Megaport PC Gamer Premium",
+      "serial":"B1232B",
+      "department":["Electronics","PC","Gaming"],
+      "price":1200
+    },
+    {
+      "id":3,
+      "imageUrl1":"https://www.tystyle.online/image/cache/catalog/e4ef5abf-0418-4192-b27f-47ef6eb5e596-500x500.png",
+      "imageUrl2":"https://www.tystyle.online/image/cache/catalog/e4ef5abf-0418-4192-b27f-47ef6eb5e596-500x500.png",
+      "name":"CUK Continuum Mini Gaming PC",
+      "serial":"B1233B",
+      "department":["Electronics","PC","Gaming"],
+      "price":2500
+    },
+    {
+      "id":4,
+      "imageUrl1":"https://stratisfy.co.uk/shop/image/cache/catalog/Supernova-custom-computer-intel-pc-gaming-500x500.png",
+      "imageUrl2":"https://stratisfy.co.uk/shop/image/cache/catalog/Supernova-custom-computer-intel-pc-gaming-500x500.png",
+      "name":"SuperNova Gaming PC",
+      "serial":"B1234B",
+      "department":["Electronics","PC","Gaming"],
+      "price":1700
+    },
+    {
+      "id":5,
+      "imageUrl1":"https://m.media-amazon.com/images/I/51ULWZfhOZL.jpg",
+      "imageUrl2":"https://m.media-amazon.com/images/I/51ULWZfhOZL.jpg",
+      "name":"Corsair Vengeance 5182 Gaming PC",
+      "serial":"B1235B",
+      "department":["Electronics","PC","Gaming"],
+      "price":2700
+    },
+    {
+      "id":6,
+      "imageUrl1":"https://www.androidtipster.com/wp-content/uploads/2018/03/under-800-gaming-pc-SkyTech-ArchAngel-GTX-1050-Ti.jpg",
+      "imageUrl2":"https://www.androidtipster.com/wp-content/uploads/2018/03/under-800-gaming-pc-SkyTech-ArchAngel-GTX-1050-Ti.jpg",
+      "name":"Tronic",
+      "serial":"B1236B",
+      "department":["Electronics","PC","Gaming"],
+      "price":2800
+    },
+    {
+      "id":7,
+      "imageUrl1":"https://static.mediaworkstations.net/wp-content/uploads/2020/01/27101722/a-x2-dual-amd-epyc-workstation-pc-amd-workstations-1-500x500.jpg",
+      "imageUrl2":"https://static.mediaworkstations.net/wp-content/uploads/2020/01/27101722/a-x2-dual-amd-epyc-workstation-pc-amd-workstations-1-500x500.jpg",
+      "name":"i-X2",
+      "serial":"B1237B",
+      "department":["Electronics","PC","Workstation"],
+      "price":2800
+    },
+    {
+      "id":8,
+      "imageUrl1":"https://www.velocitymicro.com/img/category-thumbnails/011D-category-thumbnail.png",
+      "imageUrl2":"https://www.velocitymicro.com/img/category-thumbnails/011D-category-thumbnail.png",
+      "name":"Velocity Micro",
+      "serial":"B1238B",
+      "department":["Electronics","PC","Workstation"],
+      "price":3800
+    },
+    {
+      "id":9,
+      "imageUrl1":"https://static.mediaworkstations.net/wp-content/uploads/2020/01/27095841/a-x-amd-threadripper-workstation-pc-for-cpu-and-gpu-rendering-amd-workstations-1-500x500.jpg",
+      "imageUrl2":"https://static.mediaworkstations.net/wp-content/uploads/2020/01/27095841/a-x-amd-threadripper-workstation-pc-for-cpu-and-gpu-rendering-amd-workstations-1-500x500.jpg",
+      "name":"AMD Workstation",
+      "serial":"B1239B",
+      "department":["Electronics","PC","Workstation"],
+      "price":2800
+    },
+    {
+      "id":10,
+      "imageUrl1":"https://www.gizmochina.com/wp-content/uploads/2020/01/Samsung-Galaxy-S20-5G-1.jpg",
+      "imageUrl2":"https://www.gizmochina.com/wp-content/uploads/2020/01/Samsung-Galaxy-S20-5G-1.jpg",
+      "name":"Samsung S20",
+      "serial":"B1240B",
+      "department":["Electronics","Phone","Samsung"],
+      "price":1000
+    }
+  ],
+  
+  "perfume":[
+    {
+      "id":1,
+      "imageUrl1":"https://5.imimg.com/data5/EX/CM/MY-2732157/rose-perfume-500x500.jpg",
+      "imageUrl2":"https://5.imimg.com/data5/EX/CM/MY-2732157/rose-perfume-500x500.jpg",
+      "name":"Rose Perfume",
+      "serial":"C1240C",
+      "department":["Perfumes","Women"],
+      "price":100
+    },
+    {
+      "id":2,
+      "imageUrl1":"https://5.imimg.com/data5/LP/IN/GG/SELLER-40721865/fragrance-perfume-500x500.jpg",
+      "imageUrl2":"https://5.imimg.com/data5/LP/IN/GG/SELLER-40721865/fragrance-perfume-500x500.jpg",
+      "name":"Arome Rrushi",
+      "serial":"C1241C",
+      "department":["Perfumes","Men"],
+      "price":200
+    },
+    {
+      "id":3,
+      "imageUrl1":"https://www.tivperfume.com/wp-content/uploads/2017/02/TIv-Perfume-Tiv-Eau-de-Parfum-500x500.jpg",
+      "imageUrl2":"https://www.tivperfume.com/wp-content/uploads/2017/02/TIv-Perfume-Tiv-Eau-de-Parfum-500x500.jpg",
+      "name":"Tiv",
+      "serial":"C1242C",
+      "department":["Perfumes","Women"],
+      "price":80
+    }
+  ],
+  
+  "clothes":[
+    {
+      "id":1,
+      "imageUrl1":"https://4.imimg.com/data4/YT/TC/MY-12041309/plain-t-shirt-500x500.png",
+      "imageUrl2":"https://4.imimg.com/data4/YT/TC/MY-12041309/plain-t-shirt-500x500.png",
+      "name":"T-shirt",
+      "serial":"D1242D",
+      "department":["Clothes", "T-Shirt", "Men"],
+      "price":20
+    },
+    {
+      "id":2,
+      "imageUrl1":"https://3.imimg.com/data3/FG/CT/MY-8814506/polo-t-shirt-500x500.jpg",
+      "imageUrl2":"https://3.imimg.com/data3/FG/CT/MY-8814506/polo-t-shirt-500x500.jpg",
+      "name":"Polo BLue",
+      "serial":"D1243D",
+      "department":["Clothes", "Polo", "Men"],
+      "price":30
+    },
+    {
+      "id":3,
+      "imageUrl1":"https://eeroplane.com/wp-content/uploads/2019/12/women-tshirt-boeing737-800-magenta-eeroplane05-500x500.jpg",
+      "imageUrl2":"https://eeroplane.com/wp-content/uploads/2019/12/women-tshirt-boeing737-800-magenta-eeroplane05-500x500.jpg",
+      "name":"T-shirt",
+      "serial":"D1244D",
+      "department":["Clothes", "T-Shirt", "Women"],
+      "price":20
+    }
+  ],
+  
+  "essentialoils":[
+    {
+      "id":1,
+      "imageUrl1":"https://5.imimg.com/data5/JF/UG/MY-714555/clary-sage-essential-oil-500x500.jpg",
+      "imageUrl2":"https://5.imimg.com/data5/JF/UG/MY-714555/clary-sage-essential-oil-500x500.jpg",
+      "name":"Levander",
+      "serial":"E1230E",
+      "department":["Essential Oils", "Aromatics"],
+      "price":20
+    },
+    {
+      "id":2,
+      "imageUrl1":"https://www.mccourier.com/wp-content/uploads/2020/12/Cassia-Essential-Oil.jpg",
+      "imageUrl2":"https://www.mccourier.com/wp-content/uploads/2020/12/Cassia-Essential-Oil.jpg",
+      "name":"Cinnamon",
+      "serial":"E1231E",
+      "department":["Essential Oils", "Aromatics"],
+      "price":10
+    },
+    {
+      "id":3,
+      "imageUrl1":"https://5.imimg.com/data5/OA/QY/MY-2004466/natural-essential-oil-2f-aromatherapy-oils-500x500.png",
+      "imageUrl2":"https://5.imimg.com/data5/OA/QY/MY-2004466/natural-essential-oil-2f-aromatherapy-oils-500x500.png",
+      "name":"BIO",
+      "serial":"E1232E",
+      "department":["Essential Oils", "Medical"],
+      "price":25
+    }
+  ]
+  }
+  
